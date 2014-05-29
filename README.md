@@ -11,6 +11,7 @@ There are two main folders. One is thought for **examples**, and the others are 
  - [`README.md`](/README.md)
  - [`TODO.md`](/TODO.md)
  - [`STUDY.md`](/STUDY.md)
+ - [`LAZY.md`](/LAZY.md)
  - `/examples` + `/$TOPIC`
  - `/calculations` + `/$TOPIC` + `/`
  - `/media`
