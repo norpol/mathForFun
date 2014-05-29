@@ -1,7 +1,7 @@
 TODO MATH
 =========
 
-- [x] Build a structure
+- [x] Design a structure
 
 - [ ] Cost Functions
  - [ ] write down what they are thought for
@@ -12,15 +12,15 @@ TODO MATH
 - [ ] Radioactive Decay
  - [ ] write down which mathematics you will need?(logarithm?)
 
-- [ ] MathJax / LaTeX
+- [x] MathJax / LaTeX
  - [ ] [Getting Started](http://docs.mathjax.org/en/latest/start.html)
- - [ ] [Element-sign](https://en.wikipedia.org/wiki/Element_%28mathematics%29)
+ - [x] [Element-sign](https://en.wikipedia.org/wiki/Element_%28mathematics%29)
   - LaTeX `\in` \[ \in \]
- - [ ] find the **not equal ≠** sign
+ - [x] find the **not equal ≠** sign
   - ≠ in LaTex `\neq`, in ASCII `~=`, `!=`, `/=`, `=/=`, or `<>` [src][not-equal-sign]
- - [ ] How to use it on github?
+ - [x] How to use it on github?
   - only on [github-pages?][mathjax-github-pages]
-  - > one for block or displayed mathematics \[ ... \], and the other for inline mathematics \( ... \) [src][mathjax-github-pages]
+  - `one for block or displayed mathematics \[ ... \], and the other for inline mathematics \( ... \)` [src][mathjax-github-pages]
 
 - [ ] Basic Fourier Mathematics
  - [ ] Read the chapter Wavelet Transformation of `ISBN 0-12-788744-1`
