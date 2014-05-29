@@ -1,7 +1,7 @@
 TODO MATH
 =========
 
-- [-] Build a structure
+- [x] Build a structure
 
 - [ ] Cost Functions
  - [ ] write down what they are thought for
