@@ -3,7 +3,7 @@ TODO MATH
 
 - [x] Design a structure
 
-- [ ] Cost Functions
+- [ ] Cost Theory
  - [x] find some basic examples
  - [x] collect a formula for the STUDY.md
  - [ ] Allgemeine- und Normalform digitalisieren(Quadratische Gleichung)
