@@ -1,7 +1,7 @@
 TODO MATH
 =========
 
-- [ ] Build a structure
+- [*] Build a structure
 
 - [ ] Cost Functions
  - [ ] write down what they are thought for
@@ -20,7 +20,7 @@ TODO MATH
   - ≠ in LaTex `\neq`, in ASCII `~=`, `!=`, `/=`, `=/=`, or `<>` [src][not-equal-sign]
  - [ ] How to use it on github?
   - only on [github-pages?][mathjax-github-pages]
-  - `one for block or displayed mathematics \[ ... \], and the other for inline mathematics \( ... \)` [src][[mathjax-github-pages]
+  - > one for block or displayed mathematics \[ ... \], and the other for inline mathematics \( ... \) [src][mathjax-github-pages]
 
 - [ ] Basic Fourier Mathematics
  - [ ] Read the chapter Wavelet Transformation of `ISBN 0-12-788744-1`
