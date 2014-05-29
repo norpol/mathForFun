@@ -14,3 +14,4 @@ Everybody needs the space(freedom) to be lazy. So I take the freedom to be also 
 
  * Vorzeichen beachten
  * Satz von Vieta(Seite 64)
+ * Stetige Funktionen

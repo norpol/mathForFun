@@ -13,3 +13,10 @@ Yeah. Everyone needs to study, at least from time to time. Let's do this as pain
  - \[ ax^2 \] => "quadrtaisches Glied"
  - \[ bx \]=> "lineares Glied"
  - \[ c \] => "constant factor"
+
+[##Terms](/TERMS.md)
+- [ ] Cost Theory Terms
+
+[##Vocabulary](/VOCS.md)
+
+- [ ] Cost Theory Vocabulary 
