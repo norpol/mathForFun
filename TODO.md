@@ -4,10 +4,14 @@ TODO MATH
 - [x] Design a structure
 
 - [ ] Cost Functions
+ - [x] find some basic examples
+ - [x] collect a formula for the STUDY.md
+ - [ ] Allgemeine- und Normalform digitalisieren(Quadratische Gleichung)
+ - [ ] write down the terms of the first two videos + find translations for the vocabulary list
+ - [ ] explain the video
  - [ ] write down what they are thought for
- - [ ] find some basic examples
+  - [ ] merge everything into one document
  - [ ] go through an example
- - [ ] collect some formulas for the STUDY.md
 
 - [ ] Radioactive Decay
  - [ ] write down which mathematics you will need?(logarithm?)
