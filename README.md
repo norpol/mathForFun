@@ -4,7 +4,7 @@ Mathematics
 _WORK IN PROGRESS_
 
 ##WTF?
-I am studing various mathematical topics. For the beginning the topics I'm studing are limited to what I'm required by(for?) final exams in math. In addition I try to ?build? some nice documents, mostly because I like a nice structure for everything I am doing. Be careful, most informations might be oversimplified and/or wrong - additionally I'm a pretty lazy writer, so sorry for switching between german/english + making a lot of mistakes(spelling and grammatic).
+I am studying various mathematical topics. For the beginning the topics I'm studing are limited to what I'm required by(for?) final exams in math. In addition I try to ?build? some nice documents, mostly because I like a nice structure for everything I am doing. Be careful, most informations might be oversimplified and/or wrong - additionally I'm a pretty lazy writer, so sorry for switching between german/english + making a lot of mistakes(spelling and grammatic).
 
 
 ##Structure
