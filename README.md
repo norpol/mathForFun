@@ -11,13 +11,13 @@ I am studying various mathematical topics. For the beginning the topics I'm stud
 There are two main folders. One is thought for **examples**, and the others are for **calculations** I am working on(that will maybe contain scans of my documents). Additionally there is also a **media**-folder which will provide media(documents, videos) for various mathematical topics.
 
  - [`README.md`](/README.md)
- - [`TERMS`](TERMS.md)
+ - [`TERMS.md`](/TERMS.md)
  - [`VOCS.md`](/VOCS.md)
  - [`STUDY.md`](/STUDY.md)
  - [`TODO.md`](/TODO.md)
  - [`LAZY.md`](/LAZY.md)
  - `/examples` + `/$TOPIC`
- - `/calculations` + `/$TOPIC` + `/`
+ - `/calculations` + `/$TOPIC`
  - `/media`
 
 ##Topics

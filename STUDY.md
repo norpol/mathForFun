@@ -14,9 +14,9 @@ Yeah. Everyone needs to study, at least from time to time. Let's do this as pain
  - \[ bx \]=> "lineares Glied"
  - \[ c \] => "constant factor"
 
-[##Terms](/TERMS.md)
+##[Terms](/TERMS.md)
 - [ ] Cost Theory Terms
 
-[##Vocabulary](/VOCS.md)
+##[Vocabulary](/VOCS.md)
 
 - [ ] Cost Theory Vocabulary 
