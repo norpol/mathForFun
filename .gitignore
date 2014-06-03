@@ -1,2 +1,3 @@
 *.md~
 *.mp4
+/examples/proprietary-files/*
