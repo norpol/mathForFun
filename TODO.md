@@ -14,7 +14,8 @@ TODO MATH
  - [ ] go through an example
 
 - [ ] Radioactive Decay
- - [ ] write down which mathematics you will need?(logarithm?)
+ - [x] write down which mathematics you will need?(logarithm?)
+ - Exponential Functions
 
 - [x] MathJax / LaTeX
  - [ ] [Getting Started](http://docs.mathjax.org/en/latest/start.html)

@@ -22,10 +22,10 @@ There are two main folders. One is thought for **examples**, and the others are 
 
 ##Topics
  - Basic Maths(Formulas)
- - Quadratische Funktionen
-  - Wurfbeispiele, Fallbeispiele
- - Maxima and Minima
- - Cost Functions(Kostenfunktionen)
-  - Curve Sketching
  - Exponential Functions
   - Radioactive Decay
+ - Quadratische Funktionen
+  - Wurfbeispiele, Fallbeispiele
+  - Cost Functions(Kostenfunktionen)
+  - Curve Sketching
+ - Maxima and Minima
