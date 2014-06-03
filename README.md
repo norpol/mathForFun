@@ -27,5 +27,5 @@ There are two main folders. One is thought for **examples**, and the others are 
  - Maxima and Minima
  - Cost Functions(Kostenfunktionen)
   - Curve Sketching
-- Exponential Functions
- - Radioactive Decay
+ - Exponential Functions
+  - Radioactive Decay
